@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Aulya Thareeq Pravantawidya",
+    "email": "aulyathareeq@gmail.com",
+    "nim": 21120120140099,
+    "username": "luey",
+    "password": "yeul",
+    "image": "https://avatars.githubusercontent.com/athareeqp"
+  },
+  {
+    "id": 2,
+    "name": "Fadillah Hamdi Wanadi",
+    "email": "Hamdi11adi@gmail.com",
+    "nim": 21120120120025,
+    "username": "FHW",
+    "password": "12345",
+    "image": "https://avatars.githubusercontent.com/FadillahHamdi"
+  },
+  {
+    "id": 3,
+    "name": "RinaSantika",
+    "email": "sanrin5111@gmail.com",
+    "nim": 21120120120030,
+    "username": "RS",
+    "password": "inipassword",
+    "image": "https://avatars.githubusercontent.com/RinaSantika"
+  },
+  {
+    "id": 4,
+    "name": "Arif Zulham Bagaskara",
+    "email": "Bagas.j500@gmail.com",
+    "nim": 21120120140065,
+    "username": "AZB",
+    "password": "12345",
+    "image": "https://avatars.githubusercontent.com/ArifZulham"
+  }
+]
